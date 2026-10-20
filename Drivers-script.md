@@ -5,7 +5,7 @@ Press **→** (or your clicker) at each **[▸]**. Lines in parentheses are opti
 
 ## The story in four sentences
 
-> In our work, we are skeptical of single-driver explanations. But when we explain our own lives, we narrow the lens: our effort and our obstacles stay in view, while the tailwinds go quiet. Gratitude is acknowledging the drivers behind where we are, attributing them honestly, and appreciating what they made possible. Just as hope is more than optimism, gratitude is more than positive thinking: that fuller picture steadies us where we are and gives our plans something real to build on, the two kinds of hope Caleb described.
+> In our work, we are skeptical of single-driver explanations. But when we explain our own lives, we narrow the lens to what we have done, and we account for headwinds and tailwinds unevenly. Gratitude is acknowledging the different aspects of our lives, attributing them honestly, and appreciating what they mean to us; just as hope is more than optimism, gratitude is more than positive thinking. It helps build the stabilizing and mobilizing hope Caleb described: an honest picture of where we stand, and the past and present read as patterns for the future.
 
 ---
 
@@ -28,103 +28,103 @@ Some drivers are obvious and some are hidden. Some are within our influence, and
 So if someone handed us a single-driver explanation for an outcome that mattered, we'd ask what's missing from the model.
 
 **[▸ 3 · A narrow lens]**  
-*On screen: But when we explain our own lives, we narrow the lens.*
+*On screen: When we explain our own lives, do we narrow the lens to what we have done?*
 
-But when we explain our own lives (where we are, who we've become, how we got here), we tend to narrow the lens.
+But when we explain our own lives (where we are, who we've become, how we got here), do we narrow the lens to what we have done?
 
-Our own effort stays in view, and it should. Crediting ourselves is normal and healthy.
+Usually, yes. Our own effort stays in view, and it should; crediting ourselves is normal and healthy.
 
 The obstacles stay in view too. Much of the rest fades into the background.
 
 **[▸ 4 · Headwinds & tailwinds]**  
-*On screen: Headwinds are loud. Tailwinds are quiet.*
+*On screen: How do we account for headwinds and tailwinds?*
 
-There's research on why. Across seven studies, Shai Davidai and Tom Gilovich found that people consistently notice the barriers they've faced more than the advantages that helped them.
+How do we account for headwinds and tailwinds? Unevenly.
 
-We remember what pushed against us, because we had to fight it. What pushed us along, we stop noticing.
+Psychologists Shai Davidai and Tom Gilovich found that people consistently notice the barriers they've faced more than the advantages that helped them. We remember what pushed against us, because we had to fight it. What pushed us along, we stop noticing.
 
 The headwinds are real. The tailwinds are just quieter.
 
 **[▸ 5 · Gratitude]**  
-*On screen: Gratitude is acknowledging the drivers behind where we are, attributing them honestly, and appreciating what they made possible.*
+*On screen: Gratitude is acknowledging the different aspects of our lives, attributing them honestly, and appreciating what they mean to us.*
 
-That's what I've come to think gratitude is: acknowledging the drivers behind where we are, attributing them honestly, and appreciating what they made possible.
+That's what I've come to think gratitude is: acknowledging the different aspects of our lives, attributing them honestly, and appreciating what they mean to us.
 
 It's not a positive spin on hard things. Some of us are dealing with real headwinds right now, and this doesn't make them smaller.
 
 For me, it's mostly changed how I see ordinary parts of my life. Things I'd stopped noticing come back into view.
 
 **[▸ 6 · Acknowledge]**  
-*On screen: The drivers of a life come in every kind.*
+*On screen: Our lives have far more drivers than we usually count.*
 
-Acknowledging starts with seeing how many kinds of drivers there are.
+Acknowledging starts with counting more honestly. Our lives have far more drivers than we usually count.
 
 People. Places. Things. Stories we were told. Lessons, some of them hard. Opportunities we didn't create.
 
 Some good, some hard, some neutral. And the list keeps going.
 
 **[▸ 7 · Attribute]**  
-*On screen: A real life is more tangled than any model we'd build.*
+*On screen: The drivers interact, and your effort multiplies with everything else.*
 
 Attributing honestly means admitting that the drivers interact, just like in our models.
 
 A door someone opened mattered because you were ready to walk through it. A hard year turned out differently because a friend stayed.
 
-Your effort isn't competing with everything else on this map; it's multiplying with it. And it's more tangled than any model we'd ever fit.
+Your effort isn't competing with everything else on this map; it's multiplying with it. A real life is more tangled than any model we'd ever fit.
 
 **[▸ 8 · No model needed]**  
-*On screen: We don't need the model to attribute honestly. Acknowledging the drivers is enough to see more clearly.*
+*On screen: We don't need a perfect model. Honest acknowledgment is enough to see more clearly.*
 
-And here's the part I find freeing as a data person: we don't have to estimate any of this.
+And here's the part I find freeing as a data person: we don't need a perfect model.
 
 No effect sizes, no causal graph for our own lives.
 
-Just acknowledging the drivers changes what we see. We see where we are more clearly.
+Honest acknowledgment is enough. We see where we are more clearly.
 
 **[▸ 9 · Appreciate]**  
-*On screen: One way to appreciate a driver: imagine your life without it.*
+*On screen: The removal effect: imagine a driver gone, and you appreciate it more.*
 
-And appreciating. There's a simple way to do it: imagine your life without one of these drivers.
+But seeing a driver isn't the same as appreciating it. Researchers found a surprising way to close that gap: take it away, for a moment, in your imagination.
 
-In a set of experiments, people who imagined a good thing in their life never having happened felt more positive than people who simply recalled it, and they had predicted the opposite.
+I think of it as the removal effect. People who imagined a good thing in their life never having happened felt better than people who simply thought about it, and people expected the opposite.
 
-Taking something away for a moment is how we notice it was there.
+The point isn't loss; it's noticing. Picture it gone, and you see how much it was holding up.
 
-**[▸ 10 · Does it help?]**  
-*On screen: Does it help? Modestly, and that's worth saying.*
+**[▸ 10 · The effect]**  
+*On screen: Practicing gratitude has a real, modest effect on well-being.*
 
-Does it actually help? Modestly.
+So does practicing gratitude actually help? Modestly, yes.
 
-Across 25 randomized trials, expressing gratitude improved well-being by about a fifth of a standard deviation, and less when it's compared with other reflective exercises. It's no substitute for real care or real change.
+Across 25 randomized trials the effect on well-being is real but small, and smaller still when it's compared with other reflective exercises. It's no substitute for real care or real change.
 
 Not transformative. But real, and it costs almost nothing.
 
 **[▸ 11 · Hope]**  
 *On screen: Just as hope is more than optimism, gratitude is more than positive thinking.*
 
-Where I think this matters most is hope. Caleb's message this summer made the point that hope isn't just optimism; it needs a realistic path.
+*(Steady, not rousing.)*
 
-In the same way, gratitude is more than positive thinking. Optimism expects things to work out; hope builds a path. Positive thinking looks on the bright side; gratitude looks at the whole map, headwinds included.
+Just as hope is more than optimism, gratitude is more than positive thinking. And gratitude can help us build what Caleb described in last month's ACOE Insider: stabilizing and mobilizing hope.
 
-Caleb described two kinds of hope. Stabilizing hope is honest, steady, and focused on the next step, and it needs an honest picture of where we stand. Mobilizing hope pairs a bold vision with a believable plan, and believable plans are built from real things: the people, lessons, and capabilities on this map.
+It helps us stabilize, because it gives us an honest picture of where we stand, headwinds and tailwinds both.
 
-Gratitude is how we see what we have to work with.
+And it helps us mobilize, because it lets us read the past and present as patterns for the future: what has carried us before, and what we can build on next.
 
 **[▸ 12 · Looking back]**  
-*On screen: Looking back at what carried us can help us look forward.*
+*On screen: Remembering what carried us can strengthen hope.*
 
-There's some evidence for this. In one experiment, people who spent a few minutes gratefully remembering a hope that had come true reported more hope afterward, while a control group's hope dipped.
+There's some evidence for this. In one experiment, people who gratefully remembered a hope that had come true came away more hopeful, and a comparison group didn't.
 
-One study, about 150 people, but a good clue.
+One small study, but a good clue.
 
 So think of something you once hoped for that actually came true, and ask what drove it. Your effort, yes. And who else, and what else?
 
 **[▸ 13 · Close]**  
-*On screen: Recognize your contributions, but don't stop there. Widen the lens.*
+*On screen: As you practice gratitude, recognize your contributions, the headwinds, and the tailwinds. Widen your lens; consider additional variables.*
 
 Our work teaches us that important outcomes deserve more than a single-driver explanation. So do our lives.
 
-Recognize your contributions, but don't stop there. Widen the lens: acknowledge, attribute, and appreciate the other drivers of where you are.
+As you practice gratitude, recognize your contributions, the headwinds, and the tailwinds. Widen your lens, and consider additional variables.
 
 That fuller picture won't answer every question in front of us. But it gives us steadier ground to hope from, and a truer sense of what we have to build with.
 
@@ -138,9 +138,9 @@ That fuller picture won't answer every question in front of us. But it gives us 
 |---|---|---|
 | 3 | Crediting ourselves is normal and healthy (Mezulis et al., 2004) | Footnote |
 | 4 | Headwinds/tailwinds asymmetry, seven studies (Davidai & Gilovich, 2016) | The map: headwinds loud, tailwinds quiet |
-| 9 | Imagining a good thing absent lifts mood more than recalling it (Koo, Algoe, Wilson & Gilbert, 2008) | A driver disappears and returns |
+| 9 | The removal effect (mental subtraction): imagining a good thing absent felt better (5.67) than thinking about it (4.77); people predicted the reverse (5.23 vs. 5.68) (Koo, Algoe, Wilson & Gilbert, 2008) | A driver disappears, then a predicted-vs-felt chart |
 | 10 | Expressing gratitude: well-being g = 0.22 [0.11, 0.33] across 25 RCTs (Kirca et al., 2023); smaller vs. other reflective exercises (Davis et al., 2016) | Effect-size strip |
-| 11 | Mobilizing and stabilizing hope (Meister, Dael & Bach, *HBR*, via Caleb) | Path: next step, then a believable plan |
+| 11 | Mobilizing and stabilizing hope (Meister, Dael & Bach, *HBR*, via Caleb in the *ACOE Insider*) | Path: next step, then a believable plan |
 | 12 | Grateful remembering of a fulfilled hope: +1.25 vs. −1.70, d = 0.45, N = 153 (Witvliet et al., 2019) | Change bars |
 
 ## Counter-evidence we designed around (not on screen)
