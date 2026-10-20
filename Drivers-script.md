@@ -5,7 +5,7 @@ Press **→** (or your clicker) at each **[▸]**. Lines in parentheses are opti
 
 ## The story in four sentences
 
-> In our work, we are skeptical of single-driver explanations. But when we explain our own lives, we narrow the lens: our effort and our obstacles stay in view, while the tailwinds go quiet. Gratitude is acknowledging the drivers behind where we are, attributing them honestly, and appreciating what they made possible. That fuller picture steadies us where we are and gives our plans something real to build on, the two kinds of hope Caleb described.
+> In our work, we are skeptical of single-driver explanations. But when we explain our own lives, we narrow the lens: our effort and our obstacles stay in view, while the tailwinds go quiet. Gratitude is acknowledging the drivers behind where we are, attributing them honestly, and appreciating what they made possible. Just as hope is more than optimism, gratitude is more than positive thinking: that fuller picture steadies us where we are and gives our plans something real to build on, the two kinds of hope Caleb described.
 
 ---
 
@@ -100,13 +100,13 @@ Across 25 randomized trials, expressing gratitude improved well-being by about a
 Not transformative. But real, and it costs almost nothing.
 
 **[▸ 11 · Hope]**  
-*On screen: Gratitude steadies us where we are, and gives our plans something real to build on.*
+*On screen: Just as hope is more than optimism, gratitude is more than positive thinking.*
 
-Where I think this matters most is hope. Caleb's message this summer described two kinds.
+Where I think this matters most is hope. Caleb's message this summer made the point that hope isn't just optimism; it needs a realistic path.
 
-Stabilizing hope is honest, steady, and focused on the next step, and it needs an honest picture of where we stand, headwinds and tailwinds both.
+In the same way, gratitude is more than positive thinking. Optimism expects things to work out; hope builds a path. Positive thinking looks on the bright side; gratitude looks at the whole map, headwinds included.
 
-Mobilizing hope pairs a bold vision with a believable plan, and believable plans are built from real things: the people, lessons, and capabilities on this map.
+Caleb described two kinds of hope. Stabilizing hope is honest, steady, and focused on the next step, and it needs an honest picture of where we stand. Mobilizing hope pairs a bold vision with a believable plan, and believable plans are built from real things: the people, lessons, and capabilities on this map.
 
 Gratitude is how we see what we have to work with.
 

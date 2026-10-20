@@ -2,7 +2,7 @@
 
 A short scrollytelling piece in the style of a newspaper graphics article. It has **one D3 graphic that changes state** as the story moves through 13 beats. Two evidence charts are drawn over the map; the headwinds/tailwinds and imagine-it-absent findings are drawn on the map itself. Text sits on the left and the graphic stays fixed on the right. You can present it live or send it to read afterward.
 
-**The story:** in our work we're skeptical of single-driver explanations. But when we explain our own lives, we narrow the lens: effort and obstacles stay in view, while the tailwinds go quiet. Gratitude is acknowledging the drivers behind where we are, attributing them honestly, and appreciating what they made possible. That fuller picture steadies us where we are and gives our plans something real to build on, the two kinds of hope (stabilizing and mobilizing) Caleb described.
+**The story:** in our work we're skeptical of single-driver explanations. But when we explain our own lives, we narrow the lens: effort and obstacles stay in view, while the tailwinds go quiet. Gratitude is acknowledging the drivers behind where we are, attributing them honestly, and appreciating what they made possible. Just as hope is more than optimism, gratitude is more than positive thinking: that fuller picture steadies us where we are and gives our plans something real to build on, the two kinds of hope (stabilizing and mobilizing) Caleb described.
 
 ## Files
 
