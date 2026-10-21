@@ -1,6 +1,6 @@
 # Drivers: A Reflection on Gratitude
 
-A short scrollytelling piece in the style of a newspaper graphics article. It has **one D3 graphic that changes state** as the story moves through 13 beats. Three evidence charts are drawn over the map (the removal effect, gratitude and well-being, and gratitude and hope); the headwinds/tailwinds finding is drawn on the map itself. Text sits on the left and the graphic stays fixed on the right. You can present it live or send it to read afterward.
+A short scrollytelling piece in the style of a newspaper graphics article. It has **one D3 graphic that changes state** as the story moves through 13 beats. Three evidence charts are drawn over the map (the George Bailey effect, gratitude and well-being, and gratitude and hope); the headwinds/tailwinds finding is drawn on the map itself. Text sits on the left and the graphic stays fixed on the right. You can present it live or send it to read afterward.
 
 **The story:** in our work we're skeptical of single-driver explanations. But when we explain our own lives, we narrow the lens to what we have done, and we account for headwinds and tailwinds unevenly. Gratitude is acknowledging the different aspects of our lives, attributing them honestly, and appreciating what they mean to us. Just as hope is more than optimism, gratitude is more than positive thinking: it helps build the stabilizing and mobilizing hope Caleb described.
 
@@ -20,7 +20,7 @@ A short scrollytelling piece in the style of a newspaper graphics article. It ha
 3. Share the **browser window** in Teams. Press **F** for full screen if you like.
 4. Advance with **→**, **PageDown**, **Space** or a clicker. Each beat's animation takes about 1–3 seconds, so let it finish before you speak over it.
 
-**Timing:** about 720 spoken words, roughly 6 minutes. Four acts: the habit (1–2), the narrow lens (3–4), gratitude (5–10: acknowledge, attribute, appreciate), and hope (11–13). Beats 2 and 9 animate in two phases (the second starts about 6 seconds in; in beat 9 it is the removal-effect chart), so speak through the first before advancing.
+**Timing:** about 720 spoken words, roughly 6 minutes. Four acts: the habit (1–2), the narrow lens (3–4), gratitude (5–10: acknowledge, attribute, appreciate), and hope (11–13). Beats 2 and 9 animate in two phases (the second starts about 6 seconds in; in beat 9 it is the George Bailey effect chart), so speak through the first before advancing.
 
 ## Share it afterward
 

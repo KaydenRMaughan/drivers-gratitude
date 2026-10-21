@@ -82,11 +82,11 @@ No effect sizes, no causal graph for our own lives.
 Honest acknowledgment is enough. We see where we are more clearly.
 
 **[▸ 9 · Appreciate]**  
-*On screen: The removal effect: imagine a driver gone, and you appreciate it more.*
+*On screen: The George Bailey effect: imagine life without a driver, and you appreciate it more.*
 
 But seeing a driver isn't the same as appreciating it. Researchers found a surprising way to close that gap: take it away, for a moment, in your imagination.
 
-I think of it as the removal effect. People who imagined a good thing in their life never having happened felt better than people who simply thought about it, and people expected the opposite.
+The researchers titled their paper after It's a Wonderful Life, so I think of it as the George Bailey effect. People who imagined a good thing in their life never having happened felt better than people who simply thought about it, and people expected the opposite.
 
 The point isn't loss; it's noticing. Picture it gone, and you see how much it was holding up.
 
@@ -138,7 +138,7 @@ That fuller picture won't answer every question in front of us. But it gives us 
 |---|---|---|
 | 3 | Crediting ourselves is normal and healthy (Mezulis et al., 2004) | Footnote |
 | 4 | Headwinds/tailwinds asymmetry, seven studies (Davidai & Gilovich, 2016) | The map: headwinds loud, tailwinds quiet |
-| 9 | The removal effect (mental subtraction): imagining a good thing absent felt better (5.67) than thinking about it (4.77); people predicted the reverse (5.23 vs. 5.68) (Koo, Algoe, Wilson & Gilbert, 2008) | A driver disappears, then a predicted-vs-felt chart |
+| 9 | The George Bailey effect (mental subtraction): imagining a good thing absent felt better (5.67) than thinking about it (4.77); people predicted the reverse (5.23 vs. 5.68) (Koo, Algoe, Wilson & Gilbert, 2008) | A driver disappears, then a predicted-vs-felt chart |
 | 10 | Expressing gratitude: well-being g = 0.22 [0.11, 0.33] across 25 RCTs (Kirca et al., 2023); smaller vs. other reflective exercises (Davis et al., 2016) | Effect-size strip |
 | 11 | Mobilizing and stabilizing hope (Meister, Dael & Bach, *HBR*, via Caleb in the *ACOE Insider*) | Path: next step, then a believable plan |
 | 12 | Grateful remembering of a fulfilled hope: +1.25 vs. −1.70, d = 0.45, N = 153 (Witvliet et al., 2019) | Change bars |
